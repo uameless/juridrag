@@ -9,7 +9,6 @@
 *  **Automatic summarization** of Arabic legal documents
 *  **Interactive legal assistant** powered by Retrieval-Augmented Generation (RAG)
 *  Support for both **text-based** and **scanned PDFs** via OCR
-*  **Arabic interface** with full right-to-left (RTL) support
 *  Integrated with **Google Gemini** via the `langchain-google-genai` package
 
 ---
