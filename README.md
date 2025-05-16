@@ -67,7 +67,10 @@ streamlit run app.py
 
 ## Screenshots
 
+**Document Summarization**
 ![Screenshot 1](img/pic1.png)
+
+**Interactive Q\&A**
 ![Screenshot 2](img/pic2.png)
 
 
